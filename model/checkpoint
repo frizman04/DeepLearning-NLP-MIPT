@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm32d64_c_seql_paddzer_lr3_100_lr4_150.ckpt"
+all_model_checkpoint_paths: "lstm32d64_c_seql_paddzer_lr3_100_lr4_150.ckpt"
